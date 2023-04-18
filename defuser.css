@@ -1,0 +1,24 @@
+.timer-container{
+    background-color: aqua;
+    height: 100vh;
+    padding: 20px;
+    text-align: center;
+}
+.user-input{
+ width: 250px;
+ border-radius: 5px;
+ margin-bottom: 20px ;
+}
+.bomb-image{
+    width: 150px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.timer-display{
+    
+    font-size:30px;
+    font-family: "Roboto";
+    font-weight: 600;
+
+
+}
